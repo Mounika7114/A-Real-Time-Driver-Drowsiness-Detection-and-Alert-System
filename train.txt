@@ -1,0 +1,34 @@
+C:\Users\GTSS\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\data_adapters\py_dataset_adapter.py:121: UserWarning: Your `PyDataset` class should call `super().__init__(**kwargs)` in its constructor. `**kwargs` can include `workers`, `use_multiprocessing`, `max_queue_size`. Do not pass these arguments to `fit()`, as they will be ignored.
+  self._warn_if_super_not_called()
+Epoch 1/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m15s←[0m 98ms/step - accuracy: 0.8693 - loss: 0.4089 - val_accuracy: 0.5432 - val_loss: 0.6230 - learning_rate: 0.0010
+Epoch 2/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 96ms/step - accuracy: 0.9622 - loss: 0.1063 - val_accuracy: 0.5342 - val_loss: 1.9475 - learning_rate: 0.0010
+Epoch 3/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 97ms/step - accuracy: 0.9730 - loss: 0.0703 - val_accuracy: 0.5878 - val_loss: 1.8781 - learning_rate: 0.0010
+Epoch 4/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 95ms/step - accuracy: 0.9774 - loss: 0.0657 - val_accuracy: 0.9286 - val_loss: 0.1412 - learning_rate: 0.0010
+Epoch 5/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 97ms/step - accuracy: 0.9874 - loss: 0.0403 - val_accuracy: 0.9598 - val_loss: 0.0975 - learning_rate: 0.0010
+Epoch 6/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 96ms/step - accuracy: 0.9884 - loss: 0.0366 - val_accuracy: 0.8348 - val_loss: 0.4692 - learning_rate: 0.0010
+Epoch 7/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 96ms/step - accuracy: 0.9901 - loss: 0.0274 - val_accuracy: 0.9643 - val_loss: 0.0961 - learning_rate: 0.0010
+Epoch 8/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 97ms/step - accuracy: 0.9924 - loss: 0.0277 - val_accuracy: 0.9241 - val_loss: 0.2222 - learning_rate: 0.0010
+Epoch 9/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 96ms/step - accuracy: 0.9931 - loss: 0.0253 - val_accuracy: 0.9568 - val_loss: 0.1128 - learning_rate: 0.0010
+Epoch 10/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 96ms/step - accuracy: 0.9932 - loss: 0.0199 - val_accuracy: 0.9955 - val_loss: 0.0119 - learning_rate: 0.0010
+Epoch 11/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 96ms/step - accuracy: 0.9956 - loss: 0.0150 - val_accuracy: 0.9167 - val_loss: 0.2515 - learning_rate: 0.0010
+Epoch 12/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 96ms/step - accuracy: 0.9966 - loss: 0.0156 - val_accuracy: 0.7128 - val_loss: 1.0128 - learning_rate: 0.0010
+Epoch 13/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m0s←[0m 92ms/step - accuracy: 0.9931 - loss: 0.0241
+Epoch 13: ReduceLROnPlateau reducing learning rate to 0.0005000000237487257.
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 96ms/step - accuracy: 0.9931 - loss: 0.0241 - val_accuracy: 0.9643 - val_loss: 0.1343 - learning_rate: 0.0010
+Epoch 14/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 96ms/step - accuracy: 0.9937 - loss: 0.0191 - val_accuracy: 0.9836 - val_loss: 0.0578 - learning_rate: 5.0000e-04
+Epoch 15/50
+←[1m133/133←[0m ←[32m━━━━━━━━━━━━━━━━━━━━←[0m←[37m←[0m ←[1m13s←[0m 98ms/step - accuracy: 0.9976 - loss: 0.0079 - val_accuracy: 0.9747 - val_loss: 0.0537 - learning_rate: 5.0000e-04
